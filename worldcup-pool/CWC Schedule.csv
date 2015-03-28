@@ -1,0 +1,50 @@
+Subject,Start Date,Start Time,End Date,End Time,All Day Event,Description,Location
+New Zealand VS Sri Lanka,14/02/2015,9:00 AM,14/02/2015,5:00 PM,FALSE,"Match 1 , Pool A",Christchurch
+Australia VS England,14/02/2015,2:30 PM,14/02/2015,10:30 PM,FALSE,"Match 2 , Pool A",MCG
+South Africa VS Zimbabwe,15/02/2015,12:00 PM,15/02/2015,8:00 PM,FALSE,"Match 3 , Pool B",Hamilton
+India VS Pakistan,15/02/2015,2:30 PM,15/02/2015,10:30 PM,FALSE,"Match 4 , Pool B",Adelaide
+Ireland VS West Indies,16/02/2015,9:00 AM,16/02/2015,5:00 PM,FALSE,"Match 5 , Pool B",Nelson
+New Zealand VS Scotland,17/02/2015,9:00 AM,17/02/2015,5:00 PM,FALSE,"Match 6 , Pool A",Dunedin
+Afghanistan VS Bangladesh,18/02/2015,2:30 PM,18/02/2015,10:30 PM,FALSE,"Match 7 , Pool A",Canberra
+UAE VS Zimbabwe,19/02/2015,9:00 AM,19/02/2015,5:00 PM,FALSE,"Match 8 , Pool B",Nelson
+New Zealand VS England,20/02/2015,12:00 PM,20/02/2015,8:00 PM,FALSE,"Match 9 , Pool A",Wellington
+Pakistan VS West Indies,21/02/2015,9:00 AM,21/02/2015,5:00 PM,FALSE,"Match 10 , Pool B",Christchurch
+Australia VS Bangladesh,21/02/2015,2:30 PM,21/02/2015,10:30 PM,FALSE,"Match 11 , Pool A",Brisbane
+Afghanistan VS Sri Lanka,22/02/2015,9:00 AM,22/02/2015,5:00 PM,FALSE,"Match 12 , Pool A",Dunedin
+India VS South Africa,22/02/2015,2:30 PM,22/02/2015,10:30 PM,FALSE,"Match 13 , Pool B",MCG
+England VS Scotland,23/02/2015,9:00 AM,23/02/2015,5:00 PM,FALSE,"Match 14 , Pool A",Christchurch
+West Indies VS Zimbabwe,24/02/2015,2:30 PM,24/02/2015,10:30 PM,FALSE,"Match 15 , Pool B",Canberra
+Ireland VS UAE,25/02/2015,2:30 PM,25/02/2015,10:30 PM,FALSE,"Match 16 , Pool B",Brisbane
+Afghanistan VS Scotland,26/02/2015,9:00 AM,26/02/2015,5:00 PM,FALSE,"Match 17 , Pool A",Dunedin
+Bangladesh VS Sri Lanka,26/02/2015,2:30 PM,26/02/2015,10:30 PM,FALSE,"Match 18 , Pool A",MCG
+South Africa VS West Indies,27/02/2015,2:30 PM,27/02/2015,10:30 PM,FALSE,"Match 19 , Pool B",SCG
+New Zealand VS Australia,28/02/2015,12:00 PM,28/02/2015,8:00 PM,FALSE,"Match 20 , Pool B",Auckland
+India VS UAE,28/02/2015,5:30 PM,28/02/2015,1:30 AM,FALSE,"Match 21 , Pool B",Perth
+England VS Sri Lanka,1/03/2015,9:00 AM,1/03/2015,5:00 PM,FALSE,"Match 22 , Pool A",Wellington
+Pakistan VS Zimbabwe,1/03/2015,2:30 PM,1/03/2015,10:30 PM,FALSE,"Match 23 , Pool B",Brisbane
+Ireland VS South Africa,3/03/2015,2:30 PM,3/03/2015,10:30 PM,FALSE,"Match 24 , Pool B",Canberra
+Pakistan VS UAE,4/03/2015,12:00 PM,4/03/2015,8:00 PM,FALSE,"Match 25 , Pool B",Napier
+Australia VS Afghanistan,4/03/2015,5:30 PM,4/03/2015,1:30 AM,FALSE,"Match 26 , Pool A",Perth
+Bangladesh VS Scotland,5/03/2015,9:00 AM,5/03/2015,5:00 PM,FALSE,"Match 27 , Pool A",Nelson
+India VS West Indies,6/03/2015,5:30 PM,6/03/2015,1:30 AM,FALSE,"Match 28 , Pool B",Perth
+Pakistan VS South Africa,7/03/2015,12:00 PM,7/03/2015,8:00 PM,FALSE,"Match 29 , Pool B",Auckland
+Ireland VS Zimbabwe,7/03/2015,2:30 PM,7/03/2015,10:30 PM,FALSE,"Match 30 , Pool B",Hobart
+New Zealand VS Afghanistan,8/03/2015,9:00 AM,8/03/2015,5:00 PM,FALSE,"Match 31 , Pool A",Napier
+Australia VS Sri Lanka,8/03/2015,2:30 PM,8/03/2015,10:30 PM,FALSE,"Match 32 , Pool A",SCG
+England VS Bangladesh,9/03/2015,2:30 PM,9/03/2015,10:30 PM,FALSE,"Match 33 , Pool A",Adelaide
+India VS Ireland,10/03/2015,12:00 PM,10/03/2015,8:00 PM,FALSE,"Match 34 , Pool B",Hamilton
+Scotland VS Sri Lanka,11/03/2015,2:30 PM,11/03/2015,10:30 PM,FALSE,"Match 35 , Pool A",Hobart
+South Africa VS UAE,12/03/2015,12:00 PM,12/03/2015,8:00 PM,FALSE,"Match 36 , Pool B",Wellington
+New Zealand VS Bangladesh,13/03/2015,12:00 PM,13/03/2015,8:00 PM,FALSE,"Match 37 , Pool A",Hamilton
+Afghanistan VS England,13/03/2015,2:30 PM,13/03/2015,10:30 PM,FALSE,"Match 38 , Pool A",SCG
+India VS Zimbabwe,14/03/2015,12:00 PM,14/03/2015,8:00 PM,FALSE,"Match 39 , Pool B",Auckland
+Australia VS Scotland,14/03/2015,2:30 PM,14/03/2015,10:30 PM,FALSE,"Match 40 , Pool A",Hobart
+UAE VS West Indies,15/03/2015,9:00 AM,15/03/2015,5:00 PM,FALSE,"Match 41 , Pool B",Napier
+Ireland VS Pakistan,15/03/2015,2:30 PM,15/03/2015,10:30 PM,FALSE,"Match 42 , Pool B",Adelaide
+Quarter Final 1,18/03/2015,2:30 PM,18/03/2015,10:30 PM,FALSE,,SCG
+Quarter Final 2,19/03/2015,2:30 PM,19/03/2015,10:30 PM,FALSE,,MCG
+Quarter Final 3,20/03/2015,2:30 PM,20/03/2015,10:30 PM,FALSE,,Adelaide
+Quarter Final 4,21/03/2015,12:00 PM,21/03/2015,8:00 PM,FALSE,,Wellington
+Semi Final 1,24/03/2015,12:00 PM,24/03/2015,8:00 PM,FALSE,,Auckland
+Semi Final 2,26/03/2015,2:30 PM,26/03/2015,10:30 PM,FALSE,,SCG
+Final,29/03/2015,2:30 PM,29/03/2015,10:30 PM,FALSE,,MCG
