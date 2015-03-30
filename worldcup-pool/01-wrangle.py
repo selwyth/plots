@@ -31,7 +31,7 @@ last = pd.DataFrame({
 
 melted2 = melted.append(tie, ignore_index = True)
 melted2 = melted2.append(last, ignore_index = True)
-melted2.winner.loc[42:48] = ['South Africa', 'Australia', 'India', 'New Zealand', 'New Zealand', 'Australia', '?']
+melted2.winner.loc[42:48] = ['South Africa', 'Australia', 'India', 'New Zealand', 'New Zealand', 'Australia', 'Australia']
 
 participants = {
                 'Australia' : 'Ashley',
