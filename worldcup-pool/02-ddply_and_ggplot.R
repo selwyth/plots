@@ -1,9 +1,14 @@
 require(ggplot2)
 require(plyr)
 
-setwd('C:/learnpython/plots/worldcup-pool')
+# Uncomment below and setwd correctly if using output from 01-wrangle.py
 
-df <- read.csv("munged.csv")
+# Option A
+  # setwd('~/plots/worldcup-pool') 
+  # df <- read.csv("munged.csv")
+
+# Option B
+  df <- read.csv("https://raw.githubusercontent.com/selwyth/plots/master/worldcup-pool/munged.csv")
 
 df2 <- ddply(df, .(Owner), transform, pts = cumsum(Pts))
 
